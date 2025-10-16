@@ -10,7 +10,7 @@ The presentation was created using the [Beamer Presentation Template](https://gi
 
 ## Repository Contents
 
-- `data/` – datasets used for analysis  
-- `presentation/` – slides and figures for the conference talk
-- `presentation with appendix/` – slides and figures for the conference talk with additional information on model specification
-- `references/` – bibliographic and supporting materials  
+- `complete_mobility_data` – dataset used for analysis  
+- `presentation` – slides and figures for the conference talk
+- `presentation with appendix` – slides and figures for the conference talk with additional information on model specification
+- `references` – bibliographic and supporting materials  
