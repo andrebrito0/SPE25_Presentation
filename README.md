@@ -6,8 +6,6 @@ The presentation explores the use of *R-INLA* for spatial and spatio-temporal mo
 
 E-mail to: anm.brito@campus.fct.unl.pt
 
-The presentation was created using the [Beamer Presentation Template](https://github.com/klb2/beamer-presentation-template).
-
 ---
 
 ## Repository Contents
@@ -16,3 +14,7 @@ The presentation was created using the [Beamer Presentation Template](https://gi
 - `presentation` – slides for the conference talk
 - `presentation with appendix` – slides with additional information on model specification
 - `references` – bibliographic references  
+
+---
+
+The presentation was created using the [Beamer Presentation Template](https://github.com/klb2/beamer-presentation-template).
