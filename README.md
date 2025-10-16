@@ -4,7 +4,7 @@ This repository contains the datasets, presentation materials, and references as
 
 The presentation explores the use of *R-INLA* for spatial and spatio-temporal modeling of mobility data in Portugal during the COVID-19 pandemic, with a focus on understanding patterns of movement restrictions and their statistical implications.
 
-E-mail to: [anm.brito@campus.fct.unl.pt]
+E-mail to: anm.brito@campus.fct.unl.pt
 
 The presentation was created using the [Beamer Presentation Template](https://github.com/klb2/beamer-presentation-template).
 
